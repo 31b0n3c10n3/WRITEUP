@@ -1,1 +1,0 @@
-Execute run.sh for running the docker.
